@@ -1,0 +1,1276 @@
+Start_date,End_Date,Crime,Current,Prior,Ratio,28Day_Current,28Day_Prior,28Day_Ratio,YTD_Current,YTD_Prior,YTD_Ratio,2YR(2019),11YR(2010),28YR(1993),Volume_Number,Number_number,Mayor,Commissioner,Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,2,2,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Rape,1,0,***.*,2,0,***.*,1,0,***.*,0,0,-50,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Robbery,4,3,33.3,17,17,0,0,1,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Fel. Assault,5,12,-58.3,38,47,-19.1,1,6,-83.3,-75,-66.7,-90,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Burglary,9,5,80,32,20,60,3,1,200,0,-62.5,-84.2,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Gr. Larceny,17,14,21.4,87,88,-1.1,4,4,0,-42.9,-20,-20,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,G.L.A.,3,1,200,17,8,112.5,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,TOTAL,39,35,11.43,195,182,7.14,9,12,-25,-47.06,-60.87,-88.89,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Housing,1,2,-50,6,7,-14.3,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Petit Larceny,38,38,0,197,228,-13.6,8,13,-38.5,-74.2,-61.9,***.*,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Misd. Assault,19,31,-38.7,88,109,-19.3,6,17,-64.7,-33.3,-40,***.*,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,2,1,100,3,3,0,1,1,0,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Shooting Vic.,1,3,-66.7,8,8,0,1,2,-50,-50,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Shooting Inc.,0,1,-100,2,4,-50,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,Staten Island
+  12/28/2020,  1/3/2021,Murder,2,0,***.*,4,2,100,1,0,***.*,***.*,0,0,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Rape,2,2,0,9,9,0,2,1,100,***.*,***.*,-33.3,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Robbery,24,31,-22.6,92,128,-28.1,9,12,-25,50,-30.8,-74.3,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Fel. Assault,37,40,-7.5,159,170,-6.5,21,18,16.7,50,61.5,-38.2,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Burglary,20,16,25,86,77,11.7,10,8,25,0,-28.6,-86.7,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Gr. Larceny,33,50,-34,157,249,-36.9,7,22,-68.2,-74.1,-30,-80,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,G.L.A.,28,25,12,84,79,6.3,10,13,-23.1,233.3,-28.6,-92.9,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,TOTAL,146,164,-10.98,591,714,-17.23,60,74,-18.92,0,-7.69,-81.42,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Transit,0,2,-100,4,14,-71.4,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Housing,3,5,-40,11,14,-21.4,1,2,-50,0,-50,***.*,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Petit Larceny,130,147,-11.6,600,621,-3.4,37,48,-22.9,-14,146.7,***.*,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Misd. Assault,71,81,-12.3,238,291,-18.2,31,30,3.3,-29.5,-29.5,***.*,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,3,4,-25,12,13,-7.7,2,2,0,-33.3,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Shooting Vic.,3,6,-50,17,29,-41.4,1,3,-66.7,-75,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Shooting Inc.,9,0,***.*,22,4,450,7,0,***.*,***.*,600,-22.2,28,53,Bill de Blasio,Dermot Shea,Queens South
+  12/28/2020,  1/3/2021,Murder,1,0,***.*,2,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Rape,5,2,150,8,16,-50,4,2,100,100,300,33.3,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Robbery,29,25,16,102,112,-8.9,14,13,7.7,100,55.6,-80.8,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Fel. Assault,33,40,-17.5,129,146,-11.6,17,24,-29.2,21.4,112.5,-50,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Burglary,35,21,66.7,188,113,66.4,11,9,22.2,-8.3,-47.6,-90,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Gr. Larceny,66,80,-17.5,301,367,-18,21,29,-27.6,-16,-25,-44.7,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,G.L.A.,27,15,80,88,44,100,13,8,62.5,85.7,8.3,-91.4,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,TOTAL,196,183,7.1,818,798,2.51,81,85,-4.71,20.9,2.53,-80.2,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Transit,2,5,-60,9,22,-59.1,0,2,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Housing,4,4,0,11,10,10,2,1,100,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Petit Larceny,221,201,10,940,868,8.3,61,73,-16.4,-14.1,29.8,***.*,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Misd. Assault,69,117,-41,246,327,-24.8,27,53,-49.1,-3.6,-43.8,***.*,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,5,4,25,16,21,-23.8,4,2,100,-20,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Shooting Vic.,10,10,0,25,34,-26.5,2,5,-60,100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Shooting Inc.,4,0,***.*,5,3,66.7,4,0,***.*,***.*,***.*,0,28,53,Bill de Blasio,Dermot Shea,Queens North
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Rape,1,1,0,12,8,50,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Robbery,23,24,-4.2,111,105,5.7,9,6,50,50,-10,-86.8,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Fel. Assault,30,37,-18.9,93,116,-19.8,12,12,0,-14.3,-7.7,-65.7,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Burglary,49,24,104.2,204,107,90.7,17,8,112.5,13.3,88.9,-72.6,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Gr. Larceny,123,207,-40.6,494,911,-45.8,35,73,-52.1,-52.1,-50.7,-83.2,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,G.L.A.,8,5,60,34,18,88.9,3,2,50,200,200,-94.5,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,TOTAL,234,298,-21.48,949,"1,265",-24.98,76,101,-24.75,-30.28,-26.92,-82.33,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Transit,13,16,-18.8,35,68,-48.5,4,3,33.3,-50,-33.3,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Housing,8,14,-42.9,58,37,56.8,1,4,-75,-50,0,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Petit Larceny,237,291,-18.6,942,"1,233",-23.6,74,84,-11.9,-45.6,-26.7,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Misd. Assault,61,98,-37.8,217,331,-34.4,16,44,-63.6,-62.8,-62.8,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,1,0,13,11,18.2,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Shooting Vic.,4,11,-63.6,35,54,-35.2,2,7,-71.4,-75,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,3,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,Manhattan South
+  12/28/2020,  1/3/2021,Murder,0,2,-100,2,3,-33.3,0,1,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Rape,3,4,-25,12,13,-7.7,2,2,0,0,0,-77.8,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Robbery,28,33,-15.2,140,141,-0.7,5,12,-58.3,-64.3,-70.6,-91.8,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Fel. Assault,44,40,10,162,177,-8.5,24,20,20,33.3,33.3,-61.9,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Burglary,31,28,10.7,137,128,7,8,10,-20,-33.3,60,-87.3,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Gr. Larceny,65,105,-38.1,315,456,-30.9,15,48,-68.8,-60.5,15.4,-76.2,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,G.L.A.,13,8,62.5,61,25,144,6,2,200,500,100,-92.5,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,TOTAL,184,220,-16.36,829,943,-12.09,60,95,-36.84,-30.23,1.69,-82.46,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Transit,5,6,-16.7,20,27,-25.9,2,5,-60,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Housing,18,19,-5.3,78,78,0,9,6,50,28.6,12.5,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Petit Larceny,186,213,-12.7,888,"1,013",-12.3,58,71,-18.3,-30.1,9.4,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Misd. Assault,74,83,-10.8,250,339,-26.3,34,40,-15,-37,-26.1,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,6,6,0,20,20,0,2,3,-33.3,-33.3,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Shooting Vic.,5,8,-37.5,24,35,-31.4,2,1,100,-66.7,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Shooting Inc.,2,4,-50,15,8,87.5,0,2,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,Manhattan North
+  12/28/2020,  1/3/2021,Murder,4,1,300,7,5,40,1,1,0,***.*,***.*,-83.3,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Rape,3,4,-25,25,22,13.6,1,2,-50,-75,-50,-83.3,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Robbery,76,84,-9.5,294,253,16.2,34,36,-5.6,41.7,30.8,-72.6,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Fel. Assault,98,96,2.1,416,361,15.2,46,48,-4.2,-20.7,58.6,-47.7,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Burglary,48,46,4.3,186,163,14.1,14,19,-26.3,-12.5,-36.4,-88,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Gr. Larceny,97,118,-17.8,439,480,-8.5,24,44,-45.5,-44.2,100,-40,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,G.L.A.,33,31,6.5,180,121,48.8,12,7,71.4,-7.7,100,-90.3,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,TOTAL,359,380,-5.53,"1,547","1,405",10.11,132,157,-15.92,-16.46,36.08,-73.86,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Transit,4,10,-60,17,38,-55.3,0,3,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Housing,18,27,-33.3,84,103,-18.4,9,12,-25,-35.7,0,***.*,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Petit Larceny,249,312,-20.2,974,"1,316",-26,42,103,-59.2,-64.7,-30,***.*,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Misd. Assault,171,176,-2.8,676,784,-13.8,66,84,-21.4,-33.3,-17.5,***.*,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,4,7,-42.9,34,34,0,2,4,-50,-66.7,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Shooting Vic.,11,12,-8.3,41,50,-18,7,7,0,-30,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Shooting Inc.,11,2,450,33,12,175,6,2,200,200,100,-33.3,28,53,Bill de Blasio,Dermot Shea,Bronx
+  12/28/2020,  1/3/2021,Murder,1,0,***.*,7,3,133.3,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Rape,4,4,0,14,10,40,3,3,0,200,200,0,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Robbery,40,36,11.1,138,147,-6.1,15,13,15.4,36.4,-31.8,-86.5,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Fel. Assault,52,61,-14.8,191,206,-7.3,22,32,-31.3,-15.4,29.4,-61.4,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Burglary,37,42,-11.9,148,141,5,13,13,0,-13.3,-51.9,-90.7,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Gr. Larceny,81,108,-25,323,449,-28.1,24,48,-50,-29.4,-4,-40,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,G.L.A.,29,17,70.6,102,79,29.1,11,7,57.1,57.1,-35.3,-94,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,TOTAL,244,268,-8.96,923,"1,035",-10.82,88,116,-24.14,-6.38,-19.27,-83.58,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Transit,1,12,-91.7,6,36,-83.3,0,7,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Housing,4,7,-42.9,29,29,0,2,4,-50,-33.3,-33.3,***.*,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Petit Larceny,219,216,1.4,978,"1,018",-3.9,56,69,-18.8,-38.5,-25.3,***.*,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Misd. Assault,88,96,-8.3,294,365,-19.5,35,38,-7.9,-22.2,-50,***.*,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,7,5,40,26,16,62.5,4,4,0,33.3,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Shooting Vic.,10,8,25,40,47,-14.9,5,5,0,25,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Shooting Inc.,2,7,-71.4,19,15,26.7,1,6,-83.3,***.*,-50,-83.3,28,53,Bill de Blasio,Dermot Shea,Brooklyn South
+  12/28/2020,  1/3/2021,Murder,1,0,***.*,3,0,***.*,102,65,56.9,78.9,-22.1,-78.4,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Rape,1,1,0,14,11,27.3,220,280,-21.4,-16.3,-2.7,-62.6,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Robbery,29,53,-45.3,151,194,-22.2,"2,126","2,389",-11,-13.4,-42.3,-87.3,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Fel. Assault,40,60,-33.3,226,213,6.1,"3,333","3,441",-3.1,-3.1,2.9,-60,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Burglary,27,23,17.4,173,145,19.3,"2,621","2,015",30.1,20.2,-18.2,-78.1,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Gr. Larceny,68,77,-11.7,324,386,-16.1,"4,525","5,392",-16.1,-17.6,4.8,-34.1,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,G.L.A.,20,19,5.3,118,77,53.2,"1,378",929,48.3,74.9,-3,-85.5,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,TOTAL,186,233,-20.17,"1,009","1,026",-1.66,"14,305","14,511",-1.42,-2.53,-11.82,-73.71,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Transit,2,12,-83.3,18,46,-60.9,308,446,-30.9,-38,-30.5,***.*,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Housing,15,34,-55.9,106,98,8.2,"1,352","1,346",0.4,4.6,15.7,***.*,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Petit Larceny,157,181,-13.3,818,890,-8.1,"10,626","11,320",-6.1,-6.1,2,***.*,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Misd. Assault,88,91,-3.3,333,423,-21.3,"4,540","5,868",-22.6,-26.2,-41.4,***.*,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,5,2,150,24,27,-11.1,342,433,-21,-15.8,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Shooting Vic.,7,6,16.7,36,45,-20,592,665,-11,-17.8,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Shooting Inc.,7,4,75,32,12,166.7,501,245,104.5,115,0.6,-72.8,28,53,Bill de Blasio,Dermot Shea,Brooklyn North
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Robbery,0,1,-100,2,2,0,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,3,-66.7,2,6,-66.7,0,0,***.*,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Burglary,0,0,***.*,1,1,0,0,0,***.*,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,2,0,***.*,13,11,18.2,0,0,***.*,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,TOTAL,3,4,-25,19,21,-9.52,0,1,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,3,4,-25,22,20,10,3,0,***.*,-25,-40,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,0,3,-100,11,7,57.1,0,3,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,0,***.*,1,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,123rd Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,0,***.*,0,0,***.*,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Robbery,0,0,***.*,2,1,100,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,2,-50,9,7,28.6,0,2,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Burglary,2,1,100,6,6,0,1,0,***.*,0,0,-91.7,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,4,25,20,20,0,3,1,200,50,50,50,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,2,1,100,8,1,700,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,TOTAL,10,8,25,46,35,31.43,4,3,33.33,33.33,-20,-85.71,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,7,11,-36.4,38,42,-9.5,3,3,0,-70,-70,***.*,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,1,4,-75,12,21,-42.9,1,4,-75,0,-50,***.*,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,4,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,122nd Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Robbery,0,0,***.*,3,5,-40,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,3,2,50,14,10,40,1,0,***.*,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Burglary,5,2,150,16,8,100,1,1,0,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,4,25,32,33,-3,1,1,0,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,0,***.*,6,5,20,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,TOTAL,13,8,62.5,71,61,16.39,3,2,50,50,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,21,15,40,97,97,0,2,7,-71.4,-66.7,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,10,13,-23.1,34,33,3,3,4,-25,-25,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,0,1,-100,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,1,-100,0,3,-100,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,1,-100,0,1,-100,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,121th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,2,2,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Rape,1,0,***.*,1,0,***.*,1,0,***.*,***.*,***.*,-50,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Robbery,4,2,100,10,9,11.1,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,0,5,-100,13,24,-45.8,0,4,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Burglary,2,2,0,9,5,80,1,0,***.*,***.*,-80,-85.7,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,6,-16.7,22,24,-8.3,0,2,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,0,***.*,2,1,100,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,TOTAL,13,15,-13.33,59,65,-9.23,2,6,-66.67,-66.67,-84.62,-96,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Housing,1,2,-50,4,6,-33.3,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,7,8,-12.5,40,69,-42,0,3,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,8,11,-27.3,31,48,-35.4,2,6,-66.7,-50,-75,***.*,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,2,0,***.*,2,1,100,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,2,-100,3,5,-40,0,2,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,2,2,0,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,120th Precinct
+  12/28/2020,  1/3/2021,Murder,1,0,***.*,1,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Rape,2,0,***.*,2,2,0,2,0,***.*,0,***.*,100,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Robbery,7,4,75,22,11,100,6,3,100,200,100,-45.5,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,8,9,-11.1,30,32,-6.3,3,6,-50,***.*,-25,-57.1,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Burglary,0,1,-100,6,10,-40,0,1,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,8,11,-27.3,39,41,-4.9,3,4,-25,-25,-50,-57.1,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,6,6,0,16,13,23.1,2,3,-33.3,0,0,-80,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,TOTAL,32,31,3.23,116,109,6.42,17,17,0,54.55,-15,-69.09,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Transit,1,0,***.*,3,0,***.*,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,37,25,48,122,114,7,10,10,0,25,42.9,***.*,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,19,34,-44.1,53,78,-32.1,5,24,-79.2,-44.4,-73.7,***.*,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,2,0,***.*,3,2,50,2,0,***.*,-50,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,8,4,100,10,11,-9.1,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,0,***.*,1,1,0,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,115th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Rape,1,0,***.*,2,7,-71.4,1,0,***.*,***.*,***.*,0,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Robbery,13,3,333.3,24,18,33.3,4,1,300,***.*,100,-73.3,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,9,8,12.5,21,31,-32.3,6,3,100,0,***.*,-53.8,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Burglary,3,7,-57.1,29,16,81.3,0,2,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,15,19,-21.1,54,74,-27,7,8,-12.5,40,40,133.3,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,4,2,100,11,6,83.3,3,1,200,***.*,0,-87.5,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,TOTAL,45,39,15.38,141,152,-7.24,21,15,40,75,61.54,-70.42,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,0,4,-100,0,0,***.*,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Housing,4,4,0,10,9,11.1,2,1,100,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,47,30,56.7,209,145,44.1,3,6,-50,-62.5,-70,***.*,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,6,25,-76,42,57,-26.3,1,11,-90.9,-83.3,-75,***.*,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,0,***.*,5,9,-44.4,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,2,-100,2,8,-75,0,2,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,0,***.*,1,2,-50,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,114th Precinct
+  12/28/2020,  1/3/2021,Murder,1,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,2,-50,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Robbery,7,3,133.3,14,14,0,4,1,300,***.*,100,300,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,5,11,-54.5,25,36,-30.6,3,4,-25,0,50,-62.5,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Burglary,5,2,150,11,13,-15.4,3,1,200,200,50,-50,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,3,6,-50,24,30,-20,0,4,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,4,6,-33.3,16,13,23.1,2,4,-50,0,-33.3,-88.9,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,TOTAL,25,28,-10.71,93,108,-13.89,12,14,-14.29,-7.69,0,-77.36,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,2,3,-33.3,0,0,***.*,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,11,28,-60.7,86,99,-13.1,3,12,-75,-50,50,***.*,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,10,18,-44.4,36,49,-26.5,2,8,-75,-77.8,-71.4,***.*,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,1,4,-75,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,2,-100,1,7,-85.7,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,0,***.*,4,2,100,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,113th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Robbery,3,1,200,5,9,-44.4,3,1,200,200,***.*,-40,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,2,-50,6,4,50,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Burglary,0,3,-100,9,6,50,0,1,-100,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,4,3,33.3,27,19,42.1,2,0,***.*,-33.3,100,-50,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,3,1,200,10,1,900,1,1,0,***.*,***.*,-96.6,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,TOTAL,11,10,10,57,40,42.5,6,4,50,50,200,-86.96,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Transit,1,1,0,2,5,-60,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,23,13,76.9,114,70,62.9,11,3,266.7,57.1,266.7,***.*,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,1,4,-75,7,16,-56.3,0,2,-100,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,0,2,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,1,-100,1,2,-50,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,112th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Robbery,0,3,-100,1,7,-85.7,0,2,-100,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,0,3,-100,2,6,-66.7,0,3,-100,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Burglary,4,1,300,32,11,190.9,2,1,100,100,-33.3,0,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,1,4,-75,17,25,-32,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,1,0,9,3,200,0,1,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,TOTAL,6,12,-50,61,52,17.31,2,7,-71.43,0,-81.82,-93.94,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,6,10,-40,48,48,0,2,4,-50,0,-60,***.*,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,1,8,-87.5,6,20,-70,0,4,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,0,***.*,4,1,300,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,111th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Rape,2,0,***.*,4,1,300,1,0,***.*,***.*,***.*,0,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Robbery,2,4,-50,15,21,-28.6,1,1,0,0,0,-92.9,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,5,9,-44.4,28,25,12,3,6,-50,50,200,-25,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Burglary,3,2,50,13,15,-13.3,1,1,0,-75,-66.7,-92.9,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,14,12,16.7,46,54,-14.8,2,4,-50,-60,-50,-80,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,2,-50,7,10,-30,1,2,-50,0,-50,-94.7,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,TOTAL,27,29,-6.9,114,126,-9.52,9,14,-35.71,-30.77,-18.18,-85.48,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Transit,0,2,-100,2,4,-50,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,31,26,19.2,112,130,-13.8,8,11,-27.3,-42.9,0,***.*,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,21,17,23.5,45,59,-23.7,8,5,60,60,60,***.*,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,2,0,***.*,7,1,600,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,1,-100,2,2,0,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,110th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Rape,0,2,-100,0,4,-100,0,2,-100,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Robbery,1,4,-75,20,17,17.6,0,1,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,6,2,200,18,12,50,1,1,0,-50,0,-66.7,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Burglary,10,3,233.3,44,28,57.1,4,1,300,100,300,-81.8,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,9,14,-35.7,47,65,-27.7,1,3,-66.7,-80,-50,-66.7,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,4,0,***.*,12,2,500,2,0,***.*,100,0,-91.3,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,TOTAL,30,25,20,141,128,10.16,8,8,0,-20,14.29,-85.96,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,1,5,-80,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,34,47,-27.7,161,184,-12.5,12,23,-47.8,-40,71.4,***.*,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,10,10,0,42,30,40,5,1,400,400,25,***.*,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,3,-100,0,6,-100,0,2,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,0,***.*,2,2,0,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,109th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Robbery,0,4,-100,4,13,-69.2,0,3,-100,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,3,3,0,11,14,-21.4,3,3,0,50,***.*,0,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Burglary,6,1,500,23,9,155.6,1,1,0,0,0,-90,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,7,11,-36.4,32,47,-31.9,2,6,-66.7,***.*,-33.3,-33.3,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,1,0,7,4,75,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,TOTAL,17,20,-15,77,87,-11.49,6,13,-53.85,50,20,-82.86,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,4,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,15,28,-46.4,72,74,-2.7,4,10,-60,-20,100,***.*,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,5,8,-37.5,20,29,-31,3,1,200,200,-57.1,***.*,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,1,-100,1,5,-80,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,2,0,***.*,2,0,***.*,2,0,***.*,***.*,***.*,0,28,53,Bill de Blasio,Dermot Shea,108th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,3,1,200,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Robbery,3,7,-57.1,16,24,-33.3,0,4,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,1,0,5,10,-50,0,1,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Burglary,2,7,-71.4,19,20,-5,0,2,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,2,9,-77.8,21,46,-54.3,0,5,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,3,5,-40,8,9,-11.1,2,3,-33.3,***.*,0,-91.7,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,TOTAL,11,29,-62.07,72,110,-34.55,2,15,-86.67,-77.78,-85.71,-95.74,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,4,3,33.3,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Housing,1,1,0,4,2,100,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,22,21,4.8,94,86,9.3,5,3,66.7,400,400,***.*,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,13,6,116.7,31,23,34.8,9,2,350,***.*,80,***.*,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,3,1,200,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,0,2,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,1,0,***.*,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,107th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Robbery,2,3,-33.3,12,13,-7.7,0,1,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,6,7,-14.3,21,25,-16,5,3,66.7,***.*,25,66.7,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Burglary,2,1,100,9,5,80,1,1,0,***.*,***.*,-88.9,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,12,12,0,30,53,-43.4,5,5,0,25,400,25,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,10,4,150,17,10,70,2,2,0,***.*,-50,-93.3,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,TOTAL,32,27,18.52,90,107,-15.89,13,12,8.33,116.67,8.33,-75,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,3,-100,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,11,21,-47.6,59,70,-15.7,2,12,-83.3,-71.4,-33.3,***.*,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,7,8,-12.5,27,29,-6.9,3,3,0,-57.1,-50,***.*,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,0,2,-100,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,1,-100,2,2,0,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,0,***.*,2,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,106th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Rape,0,1,-100,1,1,0,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Robbery,5,5,0,14,14,0,2,2,0,100,100,-60,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,5,6,-16.7,27,30,-10,3,4,-25,-25,200,-57.1,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Burglary,4,1,300,22,6,266.7,2,1,100,-50,-50,-77.8,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,4,6,-33.3,26,45,-42.2,0,3,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,6,3,100,17,25,-32,2,2,0,***.*,-33.3,-88.9,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,TOTAL,24,22,9.09,107,121,-11.57,9,13,-30.77,-30.77,-18.18,-79.07,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,29,15,93.3,91,92,-1.1,11,3,266.7,175,175,***.*,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,16,9,77.8,39,36,8.3,7,2,250,-30,40,***.*,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,1,1,0,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,4,7,-42.9,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,3,0,***.*,4,1,300,3,0,***.*,***.*,***.*,200,28,53,Bill de Blasio,Dermot Shea,105th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Robbery,3,2,50,11,16,-31.3,0,1,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,4,-75,13,22,-40.9,1,1,0,-50,0,-66.7,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Burglary,9,3,200,32,18,77.8,3,1,200,50,-25,-85,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,8,6,33.3,39,42,-7.1,4,4,0,33.3,33.3,300,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,7,2,250,16,5,220,4,0,***.*,300,100,-75,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,TOTAL,28,17,64.71,111,104,6.73,12,7,71.43,9.09,20,-76,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,28,22,27.3,102,103,-1,11,6,83.3,57.1,120,***.*,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,6,11,-45.5,31,38,-18.4,5,5,0,-16.7,-37.5,***.*,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,1,-100,3,3,0,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,104th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Rape,1,1,0,1,2,-50,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Robbery,4,9,-55.6,20,34,-41.2,2,2,0,***.*,-33.3,-77.8,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,8,8,0,38,37,2.7,5,2,150,400,150,-16.7,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Burglary,5,2,150,11,21,-47.6,3,1,200,200,***.*,-70,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,12,-58.3,28,39,-28.2,1,3,-66.7,-50,***.*,-83.3,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,3,5,-40,14,11,27.3,2,2,0,100,100,-75,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,TOTAL,26,37,-29.73,112,144,-22.22,14,10,40,180,133.33,-64.1,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,0,5,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Housing,0,2,-100,2,4,-50,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,20,24,-16.7,104,108,-3.7,5,6,-16.7,-54.5,66.7,***.*,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,8,12,-33.3,32,50,-36,3,2,50,-50,-70,***.*,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,1,0,2,2,0,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,2,-100,2,3,-33.3,0,2,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,0,***.*,4,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,103rd Precinct
+  12/28/2020,  1/3/2021,Murder,1,0,***.*,1,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,2,1,100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Robbery,1,1,0,6,14,-57.1,0,1,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,4,1,300,14,10,40,3,1,200,200,200,0,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Burglary,1,2,-50,9,5,80,0,2,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,1,400,17,14,21.4,1,0,***.*,-50,***.*,0,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,2,1,100,9,5,80,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,TOTAL,14,6,133.33,58,49,18.37,5,4,25,25,66.67,-92.06,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,16,12,33.3,79,67,17.9,3,4,-25,-57.1,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,3,14,-78.6,29,48,-39.6,0,6,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,2,1,100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,0,***.*,4,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,3,0,***.*,3,0,***.*,3,0,***.*,***.*,***.*,200,28,53,Bill de Blasio,Dermot Shea,102nd Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Rape,1,0,***.*,1,2,-50,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Robbery,1,3,-66.7,5,11,-54.5,1,1,0,-50,-50,-66.7,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,7,6,16.7,23,20,15,2,3,-33.3,-50,100,0,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Burglary,0,0,***.*,3,6,-50,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,1,2,-50,4,15,-73.3,0,2,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,0,***.*,2,2,0,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,TOTAL,10,11,-9.09,38,56,-32.14,4,6,-33.33,-42.86,-42.86,-71.43,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,2,-100,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Housing,2,2,0,3,3,0,1,0,***.*,0,0,***.*,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,15,12,25,61,54,13,4,5,-20,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,8,9,-11.1,27,37,-27,3,6,-50,-57.1,-25,***.*,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,0,***.*,2,2,0,1,0,***.*,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,2,1,100,4,7,-42.9,1,0,***.*,-50,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,4,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,101st Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Robbery,1,0,***.*,5,4,25,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,0,***.*,6,2,200,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Burglary,1,1,0,2,1,100,1,0,***.*,***.*,***.*,-87.5,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,1,2,-50,7,7,0,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,1,-100,1,4,-75,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,TOTAL,4,4,0,21,19,10.53,1,0,***.*,-66.67,***.*,-91.67,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,2,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,6,14,-57.1,26,45,-42.2,4,3,33.3,-42.9,100,***.*,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,6,5,20,17,19,-10.5,4,1,300,***.*,33.3,***.*,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,100th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Rape,1,0,***.*,1,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Robbery,0,1,-100,3,3,0,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,4,0,***.*,11,1,"1,000.00",0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Burglary,9,5,80,20,13,53.8,4,3,33.3,***.*,***.*,-60,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,11,-54.5,24,33,-27.3,2,5,-60,-50,0,-50,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,0,***.*,5,4,25,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,TOTAL,20,17,17.65,64,54,18.52,7,8,-12.5,0,75,-73.08,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Housing,2,1,100,5,1,400,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,11,10,10,59,44,34.1,1,5,-80,0,0,***.*,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,2,4,-50,14,13,7.7,1,1,0,-66.7,-80,***.*,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,1,0,1,1,0,1,1,0,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,2,2,0,2,5,-60,2,1,100,100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,94th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Robbery,4,1,300,13,9,44.4,2,0,***.*,-33.3,100,-77.8,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,5,3,66.7,21,7,200,0,2,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Burglary,6,6,0,21,17,23.5,2,2,0,***.*,-60,-66.7,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,7,13,-46.2,33,41,-19.5,1,8,-87.5,-85.7,-66.7,***.*,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,2,2,0,11,6,83.3,0,2,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,TOTAL,24,25,-4,99,80,23.75,5,14,-64.29,-68.75,-58.33,-84.38,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,2,-100,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Housing,3,1,200,15,5,200,0,1,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,15,13,15.4,81,73,11,1,3,-66.7,-88.9,-83.3,***.*,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,6,9,-33.3,25,41,-39,3,5,-40,-62.5,-50,***.*,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,2,1,100,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,0,***.*,3,2,50,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,0,***.*,6,1,500,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,90th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,2,-50,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Robbery,0,5,-100,4,13,-69.2,0,0,***.*,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,4,4,0,10,12,-16.7,2,2,0,-33.3,***.*,-66.7,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Burglary,2,6,-66.7,6,14,-57.1,1,4,-75,***.*,***.*,-66.7,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,2,7,-71.4,17,29,-41.4,0,5,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,0,***.*,5,0,***.*,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,TOTAL,9,22,-59.09,43,70,-38.57,3,11,-72.73,-62.5,0,-84.21,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,4,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Housing,1,5,-80,9,12,-25,0,2,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,10,11,-9.1,49,49,0,0,4,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,5,3,66.7,16,22,-27.3,2,0,***.*,-60,100,***.*,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,2,3,-33.3,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,1,-100,1,1,0,0,1,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,88th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Rape,1,0,***.*,1,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Robbery,3,7,-57.1,6,16,-62.5,2,3,-33.3,100,-50,-71.4,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,3,3,0,8,7,14.3,1,3,-66.7,0,***.*,-66.7,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Burglary,4,4,0,8,9,-11.1,1,3,-66.7,-75,***.*,-80,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,14,-64.3,23,50,-54,1,6,-83.3,-85.7,-66.7,-50,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,1,-100,0,2,-100,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,TOTAL,16,29,-44.83,46,84,-45.24,6,15,-60,-53.85,-14.29,-75,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Transit,0,5,-100,2,13,-84.6,0,5,-100,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Housing,1,2,-50,3,6,-50,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,19,17,11.8,72,86,-16.3,6,5,20,-53.8,20,***.*,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,5,6,-16.7,16,28,-42.9,1,3,-66.7,-50,-75,***.*,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,0,***.*,1,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,0,***.*,2,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,84th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Robbery,8,3,166.7,25,18,38.9,7,3,133.3,600,40,-12.5,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,8,6,33.3,20,18,11.1,4,3,33.3,0,100,-60,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Burglary,14,7,100,33,17,94.1,4,2,100,33.3,100,-63.6,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,10,8,25,48,31,54.8,3,2,50,0,***.*,-25,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,4,1,300,15,10,50,2,1,100,***.*,0,-81.8,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,TOTAL,44,25,76,143,94,52.13,20,11,81.82,81.82,81.82,-56.52,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,1,3,-66.7,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Housing,1,0,***.*,1,1,0,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,15,31,-51.6,104,95,9.5,3,8,-62.5,-76.9,-40,***.*,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,7,15,-53.3,27,60,-55,6,10,-40,200,-50,***.*,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,4,2,100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,2,-100,2,5,-60,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,0,***.*,2,0,***.*,1,0,***.*,***.*,0,-50,28,53,Bill de Blasio,Dermot Shea,83rd Precinct
+  12/28/2020,  1/3/2021,Murder,0,1,-100,0,1,-100,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,0,***.*,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Robbery,4,4,0,8,12,-33.3,0,3,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,4,7,-42.9,14,17,-17.6,3,2,50,200,-25,-40,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Burglary,2,2,0,16,13,23.1,0,1,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,12,12,0,21,36,-41.7,4,3,33.3,***.*,***.*,300,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,2,-50,6,4,50,1,2,-50,-50,0,-85.7,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,TOTAL,23,28,-17.86,66,83,-20.48,8,11,-27.27,0,0,-71.43,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,0,3,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Housing,2,0,***.*,8,2,300,0,0,***.*,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,11,23,-52.2,44,71,-38,1,7,-85.7,-50,-66.7,***.*,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,1,10,-90,22,24,-8.3,1,6,-83.3,0,-66.7,***.*,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,1,0,7,4,75,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,2,-100,0,2,-100,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,81st Precinct
+  12/28/2020,  1/3/2021,Murder,2,0,***.*,2,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Robbery,5,5,0,15,18,-16.7,2,2,0,***.*,0,-88.9,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,8,6,33.3,28,29,-3.4,5,3,66.7,150,0,-61.5,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Burglary,4,5,-20,17,17,0,1,3,-66.7,0,-50,-83.3,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,17,-70.6,21,44,-52.3,2,10,-80,-60,-33.3,-81.8,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,6,2,200,8,4,100,5,1,400,400,400,25,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,TOTAL,30,35,-14.29,91,112,-18.75,16,19,-15.79,77.78,23.08,-69.23,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,1,2,-50,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Housing,7,1,600,19,16,18.8,3,1,200,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,21,51,-58.8,77,151,-49,0,17,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,10,6,66.7,41,38,7.9,1,2,-50,-66.7,-85.7,***.*,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,2,0,***.*,3,1,200,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,0,***.*,4,4,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,2,0,***.*,5,1,400,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,79th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Robbery,3,0,***.*,9,7,28.6,1,0,***.*,***.*,0,-85.7,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,1,0,8,6,33.3,1,1,0,***.*,***.*,-50,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Burglary,4,4,0,8,14,-42.9,0,2,-100,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,4,11,-63.6,19,42,-54.8,2,0,***.*,-33.3,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,2,-50,2,2,0,1,2,-50,0,***.*,-80,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,TOTAL,13,18,-27.78,46,71,-35.21,5,5,0,25,66.67,-73.68,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,1,7,-85.7,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,4,1,300,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,8,9,-11.1,83,57,45.6,2,2,0,-80,-50,***.*,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,1,7,-85.7,7,23,-69.6,1,2,-50,-80,-75,***.*,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,0,***.*,1,2,-50,1,0,***.*,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,4,1,300,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,78th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Rape,0,1,-100,2,2,0,0,1,-100,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Robbery,1,7,-85.7,15,23,-34.8,0,2,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,5,8,-37.5,17,22,-22.7,1,4,-75,-50,-66.7,-90.9,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Burglary,3,1,200,13,5,160,1,1,0,0,0,-91.7,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,6,5,20,18,21,-14.3,3,1,200,0,50,200,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,2,-100,7,5,40,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,TOTAL,15,24,-37.5,74,78,-5.13,5,9,-44.44,-44.44,-61.54,-90.91,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Transit,0,2,-100,2,6,-66.7,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Housing,2,4,-50,6,8,-25,0,2,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,11,11,0,57,69,-17.4,1,5,-80,0,-66.7,***.*,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,2,9,-77.8,23,46,-50,2,5,-60,-50,-60,***.*,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,1,0,3,4,-25,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,3,3,0,10,7,42.9,0,3,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,3,-100,6,4,50,0,2,-100,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,77th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Rape,0,1,-100,0,1,-100,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Robbery,0,0,***.*,1,3,-66.7,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,2,2,0,12,6,100,1,0,***.*,***.*,-50,-66.7,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Burglary,0,1,-100,4,2,100,0,1,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,1,7,-85.7,3,12,-75,0,4,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,2,0,***.*,3,3,0,1,0,***.*,***.*,***.*,-66.7,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,TOTAL,5,11,-54.55,25,27,-7.41,2,6,-66.67,0,-33.33,-86.67,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Housing,2,4,-50,10,8,25,1,2,-50,***.*,-50,***.*,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,10,7,42.9,25,34,-26.5,2,2,0,-77.8,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,3,2,50,9,13,-30.8,2,0,***.*,100,100,***.*,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,1,0,1,1,0,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,3,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,76th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,0,***.*,26,10,160,271.4,-16.1,-79.4,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,3,-66.7,63,91,-30.8,-7.4,3.3,-47.5,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Robbery,9,18,-50,55,59,-6.8,616,674,-8.6,2.7,-18.3,-80.2,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,12,13,-7.7,57,53,7.5,859,926,-7.2,-7,16.1,-41.5,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Burglary,3,3,0,24,37,-35.1,426,463,-8,-2.7,-9.7,-76.8,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,16,22,-27.3,74,81,-8.6,953,"1,028",-7.3,-6.9,34.2,-0.3,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,10,10,0,50,37,35.1,414,293,41.3,102,29,-84.3,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,TOTAL,50,66,-24.24,262,270,-2.96,"3,357","3,485",-3.67,2.79,8.68,-67.23,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Transit,0,3,-100,5,8,-37.5,65,75,-13.3,10.2,-13.3,***.*,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Housing,2,8,-75,19,23,-17.4,264,255,3.5,16.3,16.3,***.*,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,27,39,-30.8,125,174,-28.2,"1,971","2,240",-12,-19,31.2,***.*,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,13,21,-38.1,53,75,-29.3,893,"1,147",-22.1,-34.1,-51,***.*,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,2,7,-71.4,90,127,-29.1,-11.8,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,0,***.*,9,5,80,105,119,-11.8,-20.5,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,9,1,800,124,62,100,254.3,15.9,-60.3,28,53,Bill de Blasio,Dermot Shea,75th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Rape,2,0,***.*,2,1,100,0,0,***.*,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Robbery,8,6,33.3,19,27,-29.6,2,2,0,0,100,-90.9,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,13,9,44.4,48,46,4.3,3,5,-40,-50,-50,-78.6,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Burglary,3,0,***.*,18,6,200,1,0,***.*,0,0,0,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,6,-16.7,18,23,-21.7,0,3,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,5,0,***.*,9,5,80,1,0,***.*,***.*,-50,-75,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,TOTAL,36,21,71.43,114,108,5.56,7,10,-30,-56.25,-50,-84.44,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,1,5,-80,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Housing,6,3,100,22,24,-8.3,0,2,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,18,25,-28,74,86,-14,3,6,-50,-72.7,-40,***.*,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,14,20,-30,70,63,11.1,4,6,-33.3,-33.3,-60,***.*,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,2,2,0,2,5,-60,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,3,1,200,3,2,50,1,0,***.*,-50,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,1,-100,4,3,33.3,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,73rd Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Rape,1,1,0,1,3,-66.7,1,1,0,0,0,***.*,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Robbery,6,7,-14.3,13,20,-35,1,1,0,0,-50,-87.5,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,5,10,-50,12,23,-47.8,0,5,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Burglary,1,3,-66.7,12,14,-14.3,1,0,***.*,0,0,-83.3,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,13,8,62.5,37,38,-2.6,6,5,20,200,500,***.*,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,2,1,100,7,5,40,0,0,***.*,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,TOTAL,28,30,-6.67,82,103,-20.39,9,12,-25,0,50,-71.88,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,0,4,-100,0,1,-100,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,14,15,-6.7,70,72,-2.8,4,8,-50,-42.9,-42.9,***.*,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,11,4,175,36,26,38.5,5,0,***.*,25,-28.6,***.*,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,2,1,100,2,5,-60,1,1,0,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,1,0,1,4,-75,1,1,0,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,4,-100,0,4,-100,0,4,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,72nd Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Robbery,3,5,-40,15,16,-6.3,2,2,0,100,-50,-87.5,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,3,6,-50,15,12,25,2,3,-33.3,-75,-33.3,-66.7,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Burglary,6,7,-14.3,16,22,-27.3,1,4,-75,0,0,-91.7,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,4,9,-55.6,16,34,-52.9,2,4,-50,-33.3,-60,100,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,1,0,12,3,300,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,TOTAL,17,28,-39.29,75,87,-13.79,7,13,-46.15,-46.15,-53.33,-85.11,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,2,2,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,23,28,-17.9,114,92,23.9,5,8,-37.5,-50,-16.7,***.*,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,5,9,-44.4,19,30,-36.7,2,4,-50,-60,-80,***.*,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,1,1,0,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,2,2,0,7,9,-22.2,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,1,0,2,1,100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,71st Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,5,1,400,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Robbery,6,3,100,25,18,38.9,3,1,200,200,50,-85,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,7,3,133.3,24,17,41.2,1,2,-50,-50,-75,-88.9,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Burglary,3,7,-57.1,20,13,53.8,2,1,100,100,-33.3,-88.9,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,12,17,-29.4,35,49,-28.6,3,8,-62.5,0,***.*,-50,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,4,2,100,10,11,-9.1,4,0,***.*,***.*,33.3,-84.6,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,TOTAL,32,32,0,120,110,9.09,13,12,8.33,85.71,8.33,-83.54,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Transit,0,2,-100,1,3,-66.7,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,20,28,-28.6,97,145,-33.1,6,5,20,-45.5,20,***.*,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,7,9,-22.2,26,32,-18.8,3,3,0,-25,-57.1,***.*,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,0,***.*,8,2,300,1,0,***.*,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,2,1,100,5,6,-16.7,2,1,100,100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,3,2,50,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,70th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Rape,0,1,-100,0,1,-100,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Robbery,0,2,-100,1,7,-85.7,0,1,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,2,5,-60,8,13,-38.5,1,3,-66.7,***.*,0,-50,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Burglary,3,0,***.*,5,5,0,1,0,***.*,***.*,-66.7,-90,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,3,7,-57.1,15,22,-31.8,2,3,-33.3,-50,***.*,0,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,3,-66.7,5,11,-54.5,1,1,0,***.*,0,-92.3,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,TOTAL,9,18,-50,34,59,-42.37,5,9,-44.44,-16.67,-16.67,-83.33,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Transit,0,2,-100,0,2,-100,0,2,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Housing,0,1,-100,2,2,0,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,7,12,-41.7,34,52,-34.6,3,5,-40,0,0,***.*,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,3,11,-72.7,12,23,-47.8,1,3,-66.7,***.*,-50,***.*,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,1,1,0,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,2,3,-33.3,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,69th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Rape,1,0,***.*,1,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Robbery,5,1,400,8,2,300,1,1,0,***.*,0,-90.9,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,2,2,0,4,9,-55.6,1,2,-50,-50,0,-50,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Burglary,1,4,-75,9,12,-25,0,1,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,6,6,0,21,33,-36.4,1,2,-50,0,-75,***.*,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,0,***.*,8,4,100,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,TOTAL,16,13,23.08,51,60,-15,4,6,-33.33,-33.33,-60,-88.57,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,2,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,29,15,93.3,83,78,6.4,7,3,133.3,600,75,***.*,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,7,1,600,16,23,-30.4,5,1,400,***.*,66.7,***.*,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,0,***.*,1,1,0,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,68th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Rape,1,0,***.*,3,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Robbery,5,9,-44.4,22,33,-33.3,1,3,-66.7,-66.7,-66.7,-93.8,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,13,11,18.2,37,33,12.1,6,5,20,200,100,0,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Burglary,4,6,-33.3,10,14,-28.6,2,0,***.*,0,-50,-92,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,7,9,-22.2,31,29,6.9,2,4,-50,-33.3,-50,-66.7,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,7,1,600,15,6,150,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,TOTAL,37,36,2.78,118,116,1.72,12,12,0,20,-29.41,-83.56,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,0,2,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,13,23,-43.5,62,99,-37.4,1,3,-66.7,-83.3,-87.5,***.*,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,9,16,-43.8,35,50,-30,2,6,-66.7,-33.3,-71.4,***.*,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,0,***.*,3,1,200,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,1,-100,4,3,33.3,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,1,-100,2,3,-33.3,0,1,-100,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,67th Precinct
+  12/28/2020,  1/3/2021,Murder,1,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Robbery,2,1,100,11,5,120,1,0,***.*,0,-75,-87.5,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,5,-80,21,19,10.5,0,2,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Burglary,2,2,0,11,14,-21.4,0,1,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,8,6,33.3,37,33,12.1,0,3,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,3,-66.7,8,8,0,1,2,-50,-50,***.*,-93.8,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,TOTAL,15,17,-11.76,90,79,13.92,2,8,-75,-80,-75,-95.24,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,0,2,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,19,15,26.7,76,53,43.4,7,7,0,16.7,0,***.*,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,3,4,-25,21,27,-22.2,1,4,-75,0,-88.9,***.*,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,5,4,25,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,3,0,***.*,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,66th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Rape,1,1,0,2,1,100,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Robbery,4,2,100,11,6,83.3,2,1,100,***.*,100,0,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,2,2,0,11,10,10,1,0,***.*,-50,0,-85.7,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Burglary,4,1,300,11,7,57.1,3,0,***.*,***.*,200,-25,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,8,-37.5,34,41,-17.1,1,4,-75,-66.7,***.*,-80,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,3,4,-25,7,12,-41.7,1,2,-50,***.*,0,-95.7,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,TOTAL,19,18,5.56,76,77,-1.3,8,7,14.29,60,100,-81.4,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Housing,0,1,-100,0,3,-100,0,1,-100,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,18,7,157.1,82,68,20.6,5,3,66.7,-44.4,66.7,***.*,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,7,8,-12.5,22,21,4.8,0,3,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,1,0,3,1,200,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,1,-100,1,5,-80,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,1,0,1,1,0,1,1,0,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,63rd Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Robbery,2,2,0,10,10,0,0,2,-100,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,4,2,100,16,12,33.3,2,1,100,-33.3,0,-33.3,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Burglary,2,0,***.*,13,9,44.4,0,0,***.*,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,7,8,-12.5,25,36,-30.6,2,4,-50,-33.3,-50,-33.3,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,2,0,***.*,5,3,66.7,1,0,***.*,***.*,0,-87.5,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,TOTAL,17,12,41.67,70,71,-1.41,5,7,-28.57,-44.44,-54.55,-80.77,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Transit,1,1,0,1,3,-66.7,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,17,24,-29.2,85,115,-26.1,4,6,-33.3,-33.3,-60,***.*,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,12,9,33.3,33,29,13.8,5,2,150,0,-28.6,***.*,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,0,***.*,6,3,100,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,62nd Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Robbery,2,2,0,5,8,-37.5,2,0,***.*,100,***.*,-66.7,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,7,4,75,12,19,-36.8,5,3,66.7,150,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Burglary,7,2,250,21,5,320,3,1,200,***.*,-50,-82.4,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,10,-50,25,54,-53.7,1,7,-85.7,-66.7,-66.7,-88.9,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,G.L.A.,4,0,***.*,13,7,85.7,1,0,***.*,-50,-50,-96.3,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,TOTAL,25,18,38.89,77,94,-18.09,12,11,9.09,50,9.09,-79.66,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,1,3,-66.7,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,4,5,-20,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,23,20,15,91,92,-1.1,6,10,-40,0,-50,***.*,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,10,9,11.1,27,30,-10,4,5,-20,-33.3,-42.9,***.*,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,1,1,0,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,3,0,***.*,4,3,33.3,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,61st Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Robbery,2,2,0,7,12,-41.7,1,1,0,0,***.*,-83.3,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,3,8,-62.5,11,27,-59.3,1,5,-80,-50,***.*,-88.9,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Burglary,0,5,-100,8,10,-20,0,2,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,6,2,200,25,26,-3.8,2,0,***.*,0,0,-33.3,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,0,***.*,7,4,75,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,TOTAL,11,17,-35.29,59,81,-27.16,4,8,-50,-20,33.33,-88.89,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,0,6,-100,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Housing,2,1,100,9,10,-10,1,0,***.*,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,18,13,38.5,76,61,24.6,4,7,-42.9,-42.9,-33.3,***.*,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,10,7,42.9,31,38,-18.4,4,5,-20,-42.9,33.3,***.*,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,3,1,200,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,2,-100,2,5,-60,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,3,-100,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,60th Precinct
+  12/28/2020,  1/3/2021,Murder,1,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Rape,0,2,-100,2,3,-33.3,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Robbery,7,8,-12.5,24,23,4.3,3,6,-50,200,50,-81.3,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,11,9,22.2,33,29,13.8,5,6,-16.7,150,150,-44.4,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Burglary,4,4,0,10,19,-47.4,1,2,-50,-50,-85.7,-92.3,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,17,16,6.3,52,62,-16.1,3,3,0,-62.5,200,0,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,5,-80,14,10,40,1,3,-66.7,0,-50,-87.5,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,TOTAL,41,44,-6.82,136,146,-6.85,13,21,-38.1,-7.14,-7.14,-73.47,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Transit,1,2,-50,6,10,-40,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Housing,1,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,25,41,-39,125,166,-24.7,4,15,-73.3,-73.3,-42.9,***.*,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,21,15,40,59,73,-19.2,8,8,0,-42.9,100,***.*,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,3,-100,2,5,-60,0,2,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,1,0,2,9,-77.8,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,2,0,***.*,3,1,200,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,52nd Precinct
+  12/28/2020,  1/3/2021,Murder,1,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,1,-100,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Robbery,5,4,25,12,5,140,2,1,100,***.*,***.*,0,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,3,-66.7,7,8,-12.5,0,1,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Burglary,3,2,50,18,12,50,0,1,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,7,10,-30,47,36,30.6,2,3,-33.3,-33.3,0,-33.3,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,0,***.*,13,6,116.7,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,TOTAL,18,19,-5.26,98,68,44.12,4,6,-33.33,-42.86,100,-84.62,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,4,3,33.3,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,12,18,-33.3,71,90,-21.1,2,8,-75,-81.8,-60,***.*,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,5,6,-16.7,19,28,-32.1,1,2,-50,-66.7,-80,***.*,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,0,2,-100,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,2,-50,1,2,-50,1,1,0,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,50th Precinct
+  12/28/2020,  1/3/2021,Murder,1,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Rape,1,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Robbery,3,2,50,17,13,30.8,0,1,-100,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,3,-66.7,18,16,12.5,1,1,0,0,-75,0,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Burglary,1,7,-85.7,8,11,-27.3,0,3,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,4,6,-33.3,26,31,-16.1,1,1,0,-80,-50,-75,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,3,4,-25,16,12,33.3,1,1,0,0,***.*,-92.9,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,TOTAL,14,22,-36.36,87,83,4.82,3,7,-57.14,-66.67,-76.92,-90.91,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,1,3,-66.7,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Housing,1,1,0,7,6,16.7,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,21,16,31.3,97,89,9,8,4,100,14.3,0,***.*,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,5,8,-37.5,22,40,-45,4,4,0,0,-20,***.*,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,1,0,4,3,33.3,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,3,0,***.*,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,49th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Rape,1,1,0,2,5,-60,0,1,-100,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Robbery,5,10,-50,21,25,-16,3,5,-40,-40,0,-70,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,8,6,33.3,43,21,104.8,1,3,-66.7,-66.7,0,-85.7,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Burglary,3,1,200,9,13,-30.8,0,0,***.*,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,8,-37.5,19,35,-45.7,2,4,-50,-33.3,100,-66.7,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,3,2,50,15,10,50,1,0,***.*,-50,0,-87.5,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,TOTAL,25,28,-10.71,109,109,0,7,13,-46.15,-50,-12.5,-85.11,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,7,2,250,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,17,21,-19,68,97,-29.9,2,8,-75,-50,-71.4,***.*,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,12,7,71.4,46,65,-29.2,3,3,0,-25,-57.1,***.*,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,2,-50,2,8,-75,0,2,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,2,-100,3,6,-50,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,4,3,33.3,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,48th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Rape,0,1,-100,1,2,-50,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Robbery,6,6,0,39,22,77.3,5,4,25,66.7,400,-58.3,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,13,8,62.5,54,40,35,8,4,100,33.3,60,-11.1,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Burglary,5,5,0,21,14,50,2,2,0,0,100,-81.8,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,11,5,120,35,27,29.6,3,4,-25,***.*,***.*,50,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,4,2,100,35,15,133.3,2,0,***.*,0,***.*,-87.5,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,TOTAL,39,27,44.44,186,120,55,20,14,42.86,42.86,185.71,-60,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Housing,3,3,0,8,8,0,1,2,-50,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,21,29,-27.6,73,98,-25.5,5,10,-50,25,150,***.*,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,15,21,-28.6,73,87,-16.1,4,10,-60,-55.6,-42.9,***.*,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,2,2,0,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,2,-50,4,6,-33.3,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,0,***.*,5,2,150,1,0,***.*,***.*,0,***.*,28,53,Bill de Blasio,Dermot Shea,47th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,2,-50,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Rape,1,0,***.*,4,3,33.3,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Robbery,4,13,-69.2,25,26,-3.8,2,4,-50,100,-33.3,-85.7,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,6,12,-50,28,40,-30,2,4,-50,-60,0,-77.8,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Burglary,8,3,166.7,24,13,84.6,2,0,***.*,-33.3,-60,-77.8,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,11,15,-26.7,33,47,-29.8,2,4,-50,-66.7,100,-50,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,1,0,10,5,100,0,1,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,TOTAL,31,44,-29.55,125,136,-8.09,9,13,-30.77,-43.75,-18.18,-76.92,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Transit,0,2,-100,1,6,-83.3,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Housing,0,1,-100,1,3,-66.7,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,22,22,0,95,97,-2.1,4,9,-55.6,-66.7,33.3,***.*,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,15,25,-40,71,75,-5.3,10,13,-23.1,42.9,0,***.*,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,0,***.*,5,3,66.7,1,0,***.*,-50,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,2,1,100,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,3,1,200,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,46th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Robbery,4,3,33.3,12,12,0,3,3,0,***.*,***.*,200,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,3,1,200,15,19,-21.1,2,0,***.*,100,0,-50,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Burglary,4,2,100,7,7,0,1,2,-50,0,***.*,-87.5,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,8,8,0,37,41,-9.8,1,4,-75,-80,-50,0,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,4,7,-42.9,8,16,-50,2,0,***.*,***.*,***.*,-90,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,TOTAL,23,21,9.52,80,95,-15.79,9,9,0,28.57,125,-74.29,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Transit,0,2,-100,0,3,-100,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Housing,0,2,-100,1,2,-50,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,21,30,-30,66,128,-48.4,1,10,-90,-92.3,-66.7,***.*,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,12,6,100,44,43,2.3,1,4,-75,-80,-80,***.*,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,2,1,100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,45th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,0,***.*,14,8,75,27.3,0,-79.4,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Rape,0,1,-100,4,2,100,37,42,-11.9,-15.9,12.1,-61.9,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Robbery,5,14,-64.3,32,36,-11.1,403,428,-5.8,4.7,-21,-80.1,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,15,12,25,51,43,18.6,744,789,-5.7,19.6,34.1,-45.1,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Burglary,7,1,600,15,7,114.3,250,172,45.3,16.3,-9.4,-88.2,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,13,13,0,48,59,-18.6,666,724,-8,-0.3,69,-16,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,3,-66.7,22,8,175,179,108,65.7,47.9,-10.5,-85.8,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,TOTAL,41,44,-6.82,173,155,11.61,"2,293","2,271",0.97,10.99,15.69,-70.29,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Transit,0,3,-100,0,8,-100,28,70,-60,-49.1,-33.3,***.*,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Housing,0,1,-100,4,3,33.3,55,56,-1.8,-9.8,5.8,***.*,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,13,31,-58.1,92,128,-28.1,"1,503","1,743",-13.8,-25.4,11,***.*,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,22,35,-37.1,86,100,-14,"1,076","1,344",-19.9,-23.7,-11.9,***.*,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,1,0,6,3,100,52,79,-34.2,-17.5,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,1,0,2,7,-71.4,74,116,-36.2,-32.1,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,1,0,2,1,100,62,32,93.8,26.5,47.6,-65.7,28,53,Bill de Blasio,Dermot Shea,44th Precinct
+  12/28/2020,  1/3/2021,Murder,0,1,-100,0,1,-100,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,4,1,300,0,0,***.*,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Robbery,10,10,0,32,24,33.3,3,3,0,200,***.*,-80,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,13,13,0,55,49,12.2,6,6,0,-14.3,200,-45.5,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Burglary,6,3,100,34,13,161.5,3,1,200,200,-25,-76.9,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,13,-61.5,52,48,8.3,0,8,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,3,2,50,14,17,-17.6,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,TOTAL,37,42,-11.9,191,153,24.84,12,19,-36.84,-25,50,-82.86,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Transit,1,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Housing,2,8,-75,17,24,-29.2,1,4,-75,-50,0,***.*,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,20,28,-28.6,80,125,-36,3,8,-62.5,-57.1,-66.7,***.*,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,15,21,-28.6,77,82,-6.1,8,12,-33.3,-27.3,-46.7,***.*,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,4,5,-20,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,2,1,100,5,6,-16.7,2,1,100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,1,0,1,1,0,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,43rd Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,4,2,100,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Robbery,10,10,0,36,27,33.3,6,3,100,50,20,-33.3,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,9,11,-18.2,33,34,-2.9,3,5,-40,-66.7,-25,-40,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Burglary,5,6,-16.7,17,20,-15,2,2,0,100,***.*,-60,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,7,6,16.7,32,37,-13.5,3,3,0,50,***.*,0,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,4,3,33.3,15,9,66.7,2,0,***.*,-33.3,***.*,-33.3,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,TOTAL,35,36,-2.78,138,130,6.15,16,13,23.08,-23.81,77.78,-36,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Housing,2,4,-50,10,28,-64.3,1,2,-50,-80,-83.3,***.*,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,18,25,-28,81,108,-25,5,8,-37.5,-64.3,150,***.*,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,20,22,-9.1,67,79,-15.2,9,10,-10,-10,80,***.*,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,0,***.*,5,2,150,1,0,***.*,-50,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,2,3,-33.3,5,6,-16.7,2,2,0,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,0,***.*,4,0,***.*,1,0,***.*,***.*,0,0,28,53,Bill de Blasio,Dermot Shea,42nd Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,2,3,-33.3,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Robbery,2,2,0,14,16,-12.5,0,1,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,2,4,-50,24,14,71.4,1,2,-50,-75,-66.7,-66.7,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Burglary,1,2,-50,9,9,0,1,2,-50,0,***.*,-87.5,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,2,10,-80,14,24,-41.7,1,2,-50,***.*,0,-80,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,G.L.A.,2,0,***.*,16,4,300,1,0,***.*,***.*,-50,0,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,TOTAL,9,18,-50,79,71,11.27,4,7,-42.86,-33.33,-50,-82.61,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Transit,1,2,-50,2,3,-33.3,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,3,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,21,19,10.5,43,55,-21.8,1,6,-83.3,-90.9,-50,***.*,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,8,11,-27.3,30,32,-6.3,2,4,-50,-77.8,-33.3,***.*,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,6,3,100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,4,3,33.3,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,2,1,100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,41st Precinct
+  12/28/2020,  1/3/2021,Murder,1,0,***.*,1,0,***.*,1,0,***.*,***.*,***.*,-50,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,2,1,100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Robbery,9,10,-10,31,29,6.9,5,1,400,-16.7,150,-70.6,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,15,14,7.1,44,50,-12,4,8,-50,-66.7,33.3,-63.6,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Burglary,4,7,-42.9,11,24,-54.2,0,3,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,14,11,27.3,54,41,31.7,4,4,0,33.3,300,33.3,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,3,1,200,12,7,71.4,1,1,0,***.*,***.*,-85.7,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,TOTAL,46,43,6.98,155,152,1.97,15,17,-11.76,-34.78,150,-68.09,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,3,3,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Housing,9,8,12.5,21,26,-19.2,5,3,66.7,0,150,***.*,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,27,32,-15.6,100,138,-27.5,5,9,-44.4,-54.5,0,***.*,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,25,20,25,87,90,-3.3,9,8,12.5,-43.8,0,***.*,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,2,2,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,2,0,***.*,6,3,100,2,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,2,0,***.*,3,1,200,2,0,***.*,***.*,***.*,-50,28,53,Bill de Blasio,Dermot Shea,40th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Robbery,6,2,200,25,25,0,1,0,***.*,-50,-50,-92.9,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,3,3,0,11,23,-52.2,2,3,-33.3,0,-33.3,-71.4,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Burglary,4,3,33.3,19,10,90,0,0,***.*,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,6,9,-33.3,29,38,-23.7,2,2,0,-71.4,0,0,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,5,1,400,16,2,700,2,0,***.*,***.*,***.*,-88.2,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,TOTAL,24,18,33.33,102,98,4.08,7,5,40,-41.67,-12.5,-87.04,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,2,2,0,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Housing,1,0,***.*,1,3,-66.7,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,11,18,-38.9,52,99,-47.5,4,5,-20,-42.9,0,***.*,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,7,7,0,23,39,-41,4,5,-20,0,33.3,***.*,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,3,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,1,3,-66.7,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,34th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Rape,0,1,-100,2,2,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Robbery,3,3,0,17,11,54.5,2,2,0,***.*,100,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,7,5,40,17,18,-5.6,5,4,25,400,66.7,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Burglary,1,3,-66.7,13,14,-7.1,0,2,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,2,5,-60,23,30,-23.3,0,2,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,3,-100,5,3,66.7,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,TOTAL,13,20,-35,77,78,-1.28,7,11,-36.36,75,75,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,2,2,0,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Housing,0,1,-100,0,1,-100,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,10,14,-28.6,54,79,-31.6,2,3,-33.3,-50,0,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,7,8,-12.5,24,29,-17.2,4,5,-20,-42.9,-42.9,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,3,2,50,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,33rd Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,2,4,-50,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Robbery,3,2,50,13,12,8.3,0,0,***.*,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,7,7,0,22,25,-12,3,3,0,0,0,-70,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Burglary,0,1,-100,11,7,57.1,0,1,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,4,10,-60,13,23,-43.5,0,8,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,1,0,6,2,200,1,1,0,0,***.*,-50,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,TOTAL,15,21,-28.57,68,73,-6.85,4,13,-69.23,-55.56,-33.33,-87.1,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,1,2,-50,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Housing,3,6,-50,11,14,-21.4,0,1,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,15,12,25,70,54,29.6,6,4,50,-33.3,100,***.*,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,13,9,44.4,37,34,8.8,3,3,0,-66.7,-50,***.*,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,2,0,***.*,5,6,-16.7,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,2,0,***.*,3,3,0,1,0,***.*,-50,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,2,1,100,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,32nd Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Robbery,1,6,-83.3,12,17,-29.4,0,3,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,3,-66.7,10,8,25,1,2,-50,-50,-50,-87.5,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Burglary,3,0,***.*,10,8,25,2,0,***.*,***.*,***.*,-66.7,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,3,6,-50,19,27,-29.6,1,1,0,***.*,***.*,-50,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,1,0,5,2,150,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,TOTAL,9,16,-43.75,56,62,-9.68,4,6,-33.33,0,0,-85.71,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Transit,1,0,***.*,4,2,100,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Housing,1,0,***.*,1,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,12,6,100,54,41,31.7,2,4,-50,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,6,7,-14.3,17,24,-29.2,6,3,100,-14.3,500,***.*,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,0,0,***.*,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,1,6,-83.3,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,30th Precinct
+  12/28/2020,  1/3/2021,Murder,0,1,-100,0,1,-100,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Rape,1,2,-50,2,2,0,1,1,0,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Robbery,2,1,100,8,10,-20,0,0,***.*,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,7,-85.7,10,19,-47.4,1,2,-50,***.*,-66.7,-88.9,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Burglary,2,2,0,11,4,175,0,2,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,9,-44.4,28,32,-12.5,2,4,-50,***.*,***.*,0,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,0,***.*,3,0,***.*,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,TOTAL,12,22,-45.45,62,68,-8.82,5,9,-44.44,25,-16.67,-75,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,2,3,-33.3,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Housing,0,1,-100,4,2,100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,21,17,23.5,86,90,-4.4,7,4,75,-12.5,40,***.*,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,13,7,85.7,30,24,25,6,1,500,20,20,***.*,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,2,-50,4,3,33.3,1,1,0,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,1,0,5,2,150,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,1,-100,0,3,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,28th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,1,-100,0,0,***.*,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Rape,0,1,-100,0,1,-100,0,1,-100,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Robbery,1,1,0,6,6,0,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,0,0,***.*,6,7,-14.3,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Burglary,0,2,-100,9,6,50,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,1,2,-50,13,22,-40.9,0,1,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,1,0,3,2,50,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,TOTAL,3,7,-57.14,37,45,-17.78,0,2,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,1,2,-50,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Housing,1,0,***.*,7,6,16.7,0,0,***.*,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,7,12,-41.7,31,56,-44.6,3,3,0,-40,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,1,6,-83.3,7,19,-63.2,1,1,0,-50,-50,***.*,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,0,1,-100,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,26th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Robbery,3,2,50,14,13,7.7,1,1,0,-66.7,0,-50,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,11,7,57.1,24,25,-4,4,4,0,300,***.*,-50,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Burglary,3,4,-25,9,6,50,1,1,0,***.*,***.*,-50,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,5,8,-37.5,26,29,-10.3,1,5,-80,0,-50,-66.7,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,0,***.*,4,0,***.*,1,0,***.*,***.*,0,-66.7,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,TOTAL,23,21,9.52,78,73,6.85,8,11,-27.27,60,100,-55.56,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Transit,1,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Housing,4,3,33.3,10,9,11.1,3,2,50,200,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,5,23,-78.3,46,110,-58.2,2,9,-77.8,-80,-50,***.*,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,7,12,-41.7,22,48,-54.2,0,8,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,1,1,0,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,1,-100,1,3,-66.7,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,1,-100,2,1,100,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,25th Precinct
+  12/28/2020,  1/3/2021,Murder,0,1,-100,0,1,-100,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Robbery,1,4,-75,4,12,-66.7,0,1,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,2,0,***.*,15,9,66.7,1,0,***.*,-50,***.*,-66.7,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Burglary,4,7,-42.9,15,19,-21.1,0,3,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,4,10,-60,15,45,-66.7,1,3,-66.7,-75,0,-85.7,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,0,***.*,6,4,50,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,TOTAL,12,22,-45.45,56,90,-37.78,2,8,-75,-75,-50,-90.48,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Transit,1,0,***.*,2,3,-33.3,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Housing,1,2,-50,5,7,-28.6,0,0,***.*,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,23,36,-36.1,100,128,-21.9,6,11,-45.5,-33.3,-40,***.*,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,8,4,100,24,19,26.3,2,2,0,-33.3,-71.4,***.*,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,3,-100,0,5,-100,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,1,-100,0,1,-100,0,1,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,24th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Rape,2,0,***.*,2,2,0,1,0,***.*,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Robbery,2,6,-66.7,15,13,15.4,0,2,-100,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,5,7,-28.6,34,35,-2.9,2,2,0,-33.3,***.*,-77.8,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Burglary,0,1,-100,8,10,-20,0,0,***.*,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,6,7,-14.3,26,22,18.2,2,3,-33.3,0,***.*,100,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,0,***.*,4,2,100,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,TOTAL,15,21,-28.57,90,84,7.14,5,7,-28.57,-54.55,0,-76.19,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,1,3,-66.7,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Housing,5,4,25,31,32,-3.1,4,1,300,33.3,100,***.*,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,7,14,-50,51,62,-17.7,0,3,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,9,11,-18.2,40,47,-14.9,6,8,-25,20,0,***.*,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,2,0,***.*,2,4,-50,1,0,***.*,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,2,2,0,8,6,33.3,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,1,-100,4,2,100,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,23rd Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Robbery,0,1,-100,0,1,-100,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,0,***.*,1,0,***.*,1,0,***.*,***.*,***.*,0,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Burglary,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,1,0,***.*,1,2,-50,1,0,***.*,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,TOTAL,2,1,100,2,3,-33.33,2,0,***.*,100,***.*,0,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Transit,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,0,1,-100,1,2,-50,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,1,1,0,3,1,200,1,1,0,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Central Park Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Robbery,5,1,400,8,10,-20,1,1,0,***.*,0,-83.3,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,5,1,400,7,3,133.3,3,0,***.*,50,50,200,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Burglary,8,2,300,15,19,-21.1,2,1,100,100,***.*,-60,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,11,11,0,38,57,-33.3,3,5,-40,-25,200,-81.3,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,0,***.*,1,1,0,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,TOTAL,30,15,100,69,91,-24.18,9,7,28.57,28.57,125,-75.68,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Transit,1,0,***.*,1,4,-75,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Housing,2,2,0,4,2,100,1,1,0,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,37,20,85,138,84,64.3,15,10,50,50,275,***.*,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,1,3,-66.7,6,23,-73.9,1,0,***.*,***.*,0,***.*,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,0,2,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,1,0,***.*,3,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,20th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Robbery,1,4,-75,18,11,63.6,0,2,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,0,***.*,5,5,0,1,0,***.*,-50,0,-75,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Burglary,6,3,100,17,25,-32,3,0,***.*,50,0,-78.6,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,17,28,-39.3,84,129,-34.9,2,14,-85.7,-86.7,-71.4,-90.9,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,1,0,8,7,14.3,1,0,***.*,***.*,***.*,-97.4,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,TOTAL,26,36,-27.78,132,178,-25.84,7,16,-56.25,-63.16,-36.36,-92.55,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Transit,1,2,-50,3,4,-25,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,4,2,100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,38,40,-5,205,208,-1.4,11,14,-21.4,-21.4,-15.4,***.*,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,1,8,-87.5,17,32,-46.9,0,3,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,1,-100,2,5,-60,0,1,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,19th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Robbery,4,3,33.3,13,7,85.7,1,2,-50,0,0,-87.5,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Fel. Assault,4,5,-20,9,11,-18.2,2,3,-33.3,0,0,-50,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Burglary,1,5,-80,16,13,23.1,0,2,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Gr. Larceny,21,42,-50,86,157,-45.2,5,15,-66.7,-44.4,-61.5,-91.2,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,G.L.A.,2,1,100,6,3,100,0,1,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,TOTAL,32,56,-42.86,131,191,-31.41,8,23,-65.22,-33.33,-50,-90.48,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Transit,2,2,0,7,14,-50,0,0,***.*,***.*,-100,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Petit Larceny,23,39,-41,103,176,-41.5,2,6,-66.7,-90,-77.8,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Misd. Assault,5,8,-37.5,24,37,-35.1,3,2,50,-66.7,-50,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Shooting Vic.,0,2,-100,4,7,-42.9,0,2,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct North
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Robbery,1,2,-50,8,5,60,1,0,***.*,0,-50,-66.7,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,2,-50,5,6,-16.7,1,1,0,0,0,0,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Burglary,7,0,***.*,17,3,466.7,2,0,***.*,100,***.*,-60,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,9,17,-47.1,42,69,-39.1,1,9,-88.9,-80,-75,-91.7,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,1,0,1,2,-50,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,TOTAL,19,22,-13.64,74,85,-12.94,5,10,-50,-37.5,-28.57,-82.14,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Transit,0,2,-100,0,5,-100,0,0,***.*,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,20,20,0,88,81,8.6,6,7,-14.3,-14.3,0,***.*,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,3,0,***.*,7,11,-36.4,1,0,***.*,-66.7,-80,***.*,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,2,-50,2,6,-66.7,1,1,0,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,17th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Robbery,5,4,25,18,16,12.5,1,1,0,0,-66.7,-95.2,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Fel. Assault,8,4,100,19,15,26.7,0,1,-100,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Burglary,4,4,0,26,22,18.2,2,2,0,-50,100,-60,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Gr. Larceny,17,38,-55.3,83,168,-50.6,4,8,-50,-60,-71.4,-94,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,G.L.A.,2,0,***.*,7,2,250,1,0,***.*,***.*,***.*,-75,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,TOTAL,36,50,-28,154,223,-30.94,8,12,-33.33,-46.67,-63.64,-92.38,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Transit,1,4,-75,7,14,-50,0,0,***.*,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Petit Larceny,44,54,-18.5,162,242,-33.1,21,14,50,-19.2,-19.2,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Misd. Assault,19,19,0,57,56,1.8,3,11,-72.7,-70,-25,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,1,1,0,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Shooting Vic.,0,4,-100,7,14,-50,0,2,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,Midtown Precinct South
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Rape,1,0,***.*,2,1,100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Robbery,3,5,-40,14,14,0,0,1,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,4,5,-20,16,14,14.3,1,2,-50,-66.7,0,-66.7,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Burglary,7,6,16.7,25,21,19,2,1,100,-50,-33.3,-87.5,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,11,21,-47.6,52,117,-55.6,4,5,-20,-50,-69.2,-69.2,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,1,-100,2,2,0,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,TOTAL,26,38,-31.58,112,169,-33.73,7,9,-22.22,-53.33,-58.82,-85.11,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Transit,2,0,***.*,2,4,-50,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Housing,0,1,-100,5,2,150,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,25,34,-26.5,110,152,-27.6,8,12,-33.3,-57.9,-38.5,***.*,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,10,15,-33.3,20,45,-55.6,3,5,-40,-40,200,***.*,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,1,0,***.*,2,2,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,2,1,100,7,6,16.7,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,13th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Robbery,1,1,0,7,9,-22.2,0,0,***.*,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,0,3,-100,3,6,-50,0,0,***.*,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Burglary,7,1,600,19,6,216.7,6,0,***.*,***.*,500,100,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,6,11,-45.5,26,48,-45.8,3,4,-25,-40,-62.5,200,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,0,***.*,5,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,TOTAL,14,16,-12.5,60,70,-14.29,9,4,125,0,-30.77,-25,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Transit,1,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Housing,1,0,***.*,3,1,200,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,8,9,-11.1,38,48,-20.8,3,3,0,0,-57.1,***.*,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,4,8,-50,17,27,-37,1,4,-75,-66.7,-83.3,***.*,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,0,1,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,3,4,-25,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,10th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Robbery,0,2,-100,3,14,-78.6,0,1,-100,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,3,10,-70,11,17,-35.3,1,2,-50,0,0,-80,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Burglary,4,2,100,20,10,100,1,1,0,***.*,-50,-83.3,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,13,20,-35,46,77,-40.3,3,4,-25,-57.1,-40,-70,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,0,***.*,2,3,-33.3,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,TOTAL,21,34,-38.24,82,121,-32.23,5,8,-37.5,-37.5,-37.5,-84.38,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,0,3,-100,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Housing,1,8,-87.5,16,13,23.1,0,2,-100,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,18,30,-40,55,119,-53.8,3,9,-66.7,-62.5,-75,***.*,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,4,10,-60,20,29,-31,2,3,-33.3,0,-81.8,***.*,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,0,0,***.*,0,0,***.*,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,1,1,0,4,1,300,1,1,0,0,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,2,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,9th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,3,1,200,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Robbery,3,1,200,15,12,25,1,0,***.*,***.*,0,-80,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,2,-50,9,13,-30.8,1,1,0,0,0,-50,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Burglary,4,2,100,13,7,85.7,1,1,0,***.*,***.*,0,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,8,12,-33.3,34,44,-22.7,2,6,-66.7,-50,100,-50,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,0,***.*,3,1,200,0,0,***.*,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,TOTAL,16,17,-5.88,77,78,-1.28,5,8,-37.5,-16.67,25,-66.67,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Transit,0,1,-100,0,2,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Housing,5,4,25,30,15,100,1,2,-50,0,0,***.*,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,18,32,-43.8,68,83,-18.1,5,8,-37.5,-44.4,25,***.*,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,6,9,-33.3,24,39,-38.5,1,4,-75,-80,-80,***.*,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,3,2,50,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,7th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,1,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Robbery,2,1,100,9,7,28.6,2,0,***.*,100,***.*,-66.7,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,2,4,-50,3,18,-83.3,0,2,-100,-100,***.*,-100,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Burglary,8,2,300,37,11,236.4,1,0,***.*,***.*,***.*,-80,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,8,16,-50,43,86,-50,3,9,-66.7,-57.1,-62.5,-78.6,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,1,0,6,1,500,1,1,0,***.*,***.*,-88.9,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,TOTAL,21,24,-12.5,99,124,-20.16,7,12,-41.67,-22.22,-12.5,-82.5,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Transit,1,1,0,4,7,-42.9,0,0,***.*,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,40,22,81.8,127,102,24.5,13,8,62.5,-31.6,85.7,***.*,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,3,14,-78.6,16,28,-42.9,0,6,-100,-100,-100,***.*,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,2,1,100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,0,5,-100,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,6th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Rape,0,1,-100,2,2,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Robbery,0,0,***.*,7,9,-22.2,0,0,***.*,***.*,-100,-100,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,1,1,0,7,11,-36.4,0,0,***.*,-100,-100,-100,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Burglary,3,2,50,11,8,37.5,1,1,0,-66.7,***.*,-83.3,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,13,14,-7.1,32,59,-45.8,3,6,-50,-66.7,0,-70,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,G.L.A.,0,1,-100,1,3,-66.7,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,TOTAL,17,19,-10.53,60,92,-34.78,4,7,-42.86,-69.23,-20,-85.19,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Transit,1,0,***.*,1,8,-87.5,1,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Housing,1,1,0,4,6,-33.3,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,10,8,25,40,68,-41.2,4,3,33.3,-63.6,-20,***.*,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,2,8,-75,16,32,-50,0,3,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,1,-100,2,2,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,0,***.*,4,4,0,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,-100,28,53,Bill de Blasio,Dermot Shea,5th Precinct
+  12/28/2020,  1/3/2021,Murder,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,Rape,0,0,***.*,1,2,-50,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,Robbery,4,5,-20,17,12,41.7,3,1,200,200,***.*,-57.1,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,Fel. Assault,6,1,500,11,5,120,6,0,***.*,500,***.*,100,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,Burglary,4,0,***.*,20,6,233.3,1,0,***.*,-66.7,-50,-75,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,Gr. Larceny,17,16,6.3,50,86,-41.9,7,7,0,-22.2,250,-65,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,G.L.A.,1,0,***.*,1,1,0,1,0,***.*,***.*,***.*,-83.3,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,TOTAL,32,22,45.45,100,112,-10.71,18,8,125,28.57,350,-55,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,Transit,5,5,0,13,10,30,3,2,50,50,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,Housing,0,0,***.*,0,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,Petit Larceny,31,43,-27.9,151,162,-6.8,9,14,-35.7,-35.7,-25,***.*,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,Misd. Assault,5,7,-28.6,16,27,-40.7,2,6,-66.7,100,0,***.*,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,Misd. Sex Crimes,0,0,***.*,1,2,-50,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,Shooting Vic.,0,1,-100,3,6,-50,0,1,-100,-100,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,1st Precinct
+  12/28/2020,  1/3/2021,Shooting Inc.,0,0,***.*,1,0,***.*,0,0,***.*,***.*,***.*,***.*,28,53,Bill de Blasio,Dermot Shea,1st Precinct
