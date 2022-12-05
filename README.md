@@ -36,7 +36,6 @@ Crime_NYC1$ElevenYr
 # plot a histogram of the Crime_NYC data with a title, x axis label, and y axis label
 barplot(table(Crime_NYC1$ElevenYr), main = "Crimes in year 2010", xlab = "Crime types", ylab = "Ratio", col = "orange"  , border = "red", ylim =c(0 , 40))
 
-#Milestone 5 Missing data and outliers.
 #Milestone 6 Measures of center and spread.
 
 #Compute the mean of the Current column
@@ -90,4 +89,19 @@ qnorm(0.975)
 #Upper limit
 (mean(Crime_NYC1$ElevenYr)+sqrt(var(Crime_NYC1$Current))/sqrt(276))*qnorm(0.975)
 
+#Milestone 9-Linear regression
+#Milestone 10-Your choice
+
+# Compute the maximum Crime_NYC1$Current
+max(Crime_NYC1$Current)
+
+# Compute the minimum Crime_NYC1$Current
+min(Crime_NYC1$Current)
+
+# Displays the row with the first observation of the max Crime_NYC1$Current
+Crime_NYC1[which.max(Crime_NYC1$Current),]
+
+
+# Displays the row with the first observation of the min Crime_NYC1$Current
+Crime_NYC1[which.min(Crime_NYC1$Current),]
 
