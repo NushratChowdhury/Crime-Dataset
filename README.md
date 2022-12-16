@@ -90,6 +90,19 @@ qnorm(0.975)
 (mean(Crime_NYC1$ElevenYr)+sqrt(var(Crime_NYC1$Current))/sqrt(276))*qnorm(0.975)
 
 #Milestone 9-Linear regression
+Crime_rates = lm(Crime ~ Mayor, data = Crime_NYC1)
+
+c(beta_0_hat, beta_1_hat)
+
+plot(dist ~ speed, data = cars,
+     xlab = "Crime_NYC1$Current",
+     ylab = "Crime_NYC1$$ElevenYr",
+     main = "Crimes in 2021 vs Crimes in 2010",
+     pch  = 20,
+     cex  = 2,
+     col  = "grey")
+abline(Crime_rates, Crime_NYC, lwd = 2, col = "darkorange"
+
 #Milestone 10-Your choice
 
 # Compute the maximum Crime_NYC1$Current
